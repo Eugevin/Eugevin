@@ -5,7 +5,7 @@
 🍔 Making awesome frontend things throughout > 5 years<br />
 🤡 I love beautiful, complex, interesting but dumb things
 
-## 📚 Skills
+# 📚 Skills
 
 ![html](https://img.shields.io/badge/html5-darkorchid?style=for-the-badge&logo=html5)
 ![css](https://img.shields.io/badge/css3-darkorchid?style=for-the-badge&logo=css3)<br />
@@ -16,7 +16,7 @@
 ![svelte](https://img.shields.io/badge/svelte-firebrick?style=for-the-badge&logo=svelte)
 ![solid](https://img.shields.io/badge/solid-firebrick?style=for-the-badge&logo=solid)
 
-## ☎️ Contacts
+# ☎️ Contacts
 
 [![telegram](https://img.shields.io/badge/@eugevin-white?style=for-the-badge&logo=telegram)](https://t.me/eugevin)
 [![mail](https://img.shields.io/badge/eugene.vinokuroff@gmail.com-white?style=for-the-badge&logo=gmail)](mailto:eugene.vinokuroff@gmail.com)
