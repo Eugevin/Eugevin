@@ -1,22 +1,37 @@
-![](https://eugevin.ru/images/me.webp)
-# 👋 Hi, I'm @Eugevin
+<h1>👋 Hey, I'm Eugevin</h1>
 
-🍏 Work from home<br />
-🍔 Making awesome frontend things throughout > 5 years<br />
-🤡 I love beautiful, complex, interesting but dumb things
+<p>
+Frontend engineer with 6+ years of experience building fast, accessible, and delightful user interfaces.
+</p>
 
-# 📚 Skills
+---
 
-![html](https://img.shields.io/badge/html5-darkorchid?style=for-the-badge&logo=html5)
-![css](https://img.shields.io/badge/css3-darkorchid?style=for-the-badge&logo=css3)<br />
-![typescript](https://img.shields.io/badge/typescript-skyblue?style=for-the-badge&logo=typescript)
-![javascript](https://img.shields.io/badge/javascript-skyblue?style=for-the-badge&logo=javascript)<br />
-![nuxt](https://img.shields.io/badge/nuxt-firebrick?style=for-the-badge&logo=nuxt.js)
-![vue](https://img.shields.io/badge/vue-firebrick?style=for-the-badge&logo=vue.js)
-![svelte](https://img.shields.io/badge/svelte-firebrick?style=for-the-badge&logo=svelte)
-![solid](https://img.shields.io/badge/solid-firebrick?style=for-the-badge&logo=solid)
+🍏 Working remotely  
+🧠 I enjoy turning complex ideas into clean UI  
+🤡 Occasionally build beautiful, absurd, overengineered side projects
 
-# ☎️ Contacts
+---
 
-[![telegram](https://img.shields.io/badge/@eugevin-white?style=for-the-badge&logo=telegram)](https://t.me/eugevin)
-[![mail](https://img.shields.io/badge/eugene.vinokuroff@gmail.com-white?style=for-the-badge&logo=gmail)](mailto:eugene.vinokuroff@gmail.com)
+## 🛠️ Tech Stack
+
+**Languages**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" />
+
+**Declarative languages** <sup>(for semantic warriors)</sup>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" />
+
+**Frameworks**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" width="32" />
+
+---
+
+## 📬 How to reach me
+
+Telegram: [@eugevin](https://t.me/eugevin) · Email: [eugene.vinokuroff@gmail.com](mailto:eugene.vinokuroff@gmail.com)
