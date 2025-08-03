@@ -4,13 +4,9 @@
 Frontend engineer with 6+ years of experience building fast, accessible, and delightful user interfaces.
 </p>
 
----
-
 🍏 Working remotely  
 🧠 I enjoy turning complex ideas into clean UI  
 🤡 Occasionally build beautiful, absurd, overengineered side projects
-
----
 
 ## 🛠️ Tech Stack
 
@@ -29,8 +25,6 @@ Frontend engineer with 6+ years of experience building fast, accessible, and del
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="32" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="32" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" width="32" />
-
----
 
 ## 📬 How to reach me
 
